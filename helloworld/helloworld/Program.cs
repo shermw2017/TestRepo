@@ -11,7 +11,7 @@ namespace helloworld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub!");
-            Console.WriteLine("It is NOT confusing at all!");
+            Console.WriteLine("It is NOT confusing at all! - it is a lie!");
             Console.WriteLine("Press any key to continue ...");
             Console.ReadKey();
         }
