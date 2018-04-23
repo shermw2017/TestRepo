@@ -12,7 +12,7 @@ namespace helloworld
         {
             Console.WriteLine("Hello GitHub!");
             Console.WriteLine("It is NOT confusing at all! - it is a lie!");
-            Console.WriteLine("Not it is NOT!");
+            Console.WriteLine("Not it is NOT! but it is ok");
             Console.WriteLine("Press any key to continue ...");
             Console.ReadKey();
         }
